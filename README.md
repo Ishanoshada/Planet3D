@@ -85,11 +85,12 @@ if __name__ == "__main__":
     planets = [sun, mercury, venus, earth, mars, jupiter, saturn, uranus, neptune]
 
     # To run in fullscreen mode, set fullscreen=True
-    generate_solar_system(planets, display=(1200, 800), fullscreen=True)
+    generate_solar_system(planets, display=(1200, 800), fullscreen=False)
 ```
 
 This example demonstrates how to create a solar system with various planets and customization options.
 
+![ex](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/ple.png?raw=true)
 
 ## Controls
 
