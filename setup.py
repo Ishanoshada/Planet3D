@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="Planet3D",
-    version="0.1.0",
+    version="0.2.0",
     author="Ishan Oshada",
     author_email="ishan.kodithuwakku@gmail.com",
     description="A 3D representation of the solar system using Pygame and OpenGL",
