@@ -4,6 +4,7 @@ from OpenGL.GL import *
 from OpenGL.GLU import *
 import math
 
+
 def draw_planet_center(x, y, z):
     glColor3f(0.0, 0.0, 0.0)  # Black color
     glPointSize(5)
@@ -177,6 +178,10 @@ def generate_solar_system(planets, display=(1200, 800), fullscreen=False):
             pygame.display.flip()
             clock.tick(30)
 
+
+    
     except Exception as e:
         print(f"Error in generating solar system: {e}")
 
+
+__author__ = "ishan oshada"
