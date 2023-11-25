@@ -1,4 +1,5 @@
 # Planet3D: Solar System Visualization
+
 ![ss](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/7d42d195b24996b688b4e1641be0656e.png~tplv-jiivuhwl6u-resize_5000.awebp.webp)
 
 ## Introduction
@@ -119,5 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or support, please contact [ishan.kodithuwakku@gmail.com].
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/planet3D/count.svg)
 
 Explore the wonders of our solar system with Planet3D!
