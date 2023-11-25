@@ -184,4 +184,4 @@ def generate_solar_system(planets, display=(1200, 800), fullscreen=False):
         print(f"Error in generating solar system: {e}")
 
 
-__author__ = "ishan oshada"
+__author__ = "ishanoshada"
